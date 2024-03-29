@@ -1,0 +1,42 @@
+{
+  "_BtnLoader-B0BUZiUs.js": {
+    "file": "assets/BtnLoader-B0BUZiUs.js",
+    "imports": [
+      "_client-Bd-BAaQf.js"
+    ]
+  },
+  "_client-Bd-BAaQf.js": {
+    "file": "assets/client-Bd-BAaQf.js"
+  },
+  "_index-CMC0lLj1.js": {
+    "file": "assets/index-CMC0lLj1.js"
+  },
+  "resources/js/Product/ProductDetail.jsx": {
+    "file": "assets/ProductDetail-COQZpvrA.js",
+    "src": "resources/js/Product/ProductDetail.jsx",
+    "isEntry": true,
+    "imports": [
+      "_BtnLoader-B0BUZiUs.js",
+      "_client-Bd-BAaQf.js",
+      "_index-CMC0lLj1.js"
+    ]
+  },
+  "resources/js/Profile.jsx": {
+    "file": "assets/Profile-BcDyonUM.js",
+    "src": "resources/js/Profile.jsx",
+    "isEntry": true,
+    "imports": [
+      "_client-Bd-BAaQf.js",
+      "_BtnLoader-B0BUZiUs.js"
+    ]
+  },
+  "resources/js/Test.jsx": {
+    "file": "assets/Test-rS03lko6.js",
+    "src": "resources/js/Test.jsx",
+    "isEntry": true,
+    "imports": [
+      "_client-Bd-BAaQf.js",
+      "_index-CMC0lLj1.js"
+    ]
+  }
+}

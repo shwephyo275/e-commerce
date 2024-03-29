@@ -1,0 +1,1 @@
+import{c as n,R as e,r as o}from"./client-Bd-BAaQf.js";import{_ as s}from"./index-CMC0lLj1.js";const c=()=>{const[t,r]=o.useState(2);return e.createElement("div",null,e.createElement(s,{rating:t,starRatedColor:"blue",changeRating:a=>{r(a)},numberOfStars:5,name:"rating"}))};n(document.getElementById("root")).render(e.createElement(c,null));
